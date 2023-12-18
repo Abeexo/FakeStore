@@ -1,3 +1,16 @@
+# Project: Fake Store with Non-functional Shopping Cart
+
+Description:
+This project is a web application developed in React that imitates an online store. It fetches product information from an API and displays these products on various pages. While it has a shopping cart UI, the shopping cart functionality is not implemented.
+
+Features:
+
+    Utilizes APIs: Fetches product data from a provided API to display on the website.
+    Product Display: Shows a list of products with details like name, description, price, and images.
+    Non-functional Shopping Cart: Displays a shopping cart UI but doesn't include actual shopping cart functionalities such as adding or removing items.
+    Responsive Design: Built to be responsive and adapt to various screen sizes.
+    Context for CSS: Uses React Context to dynamically apply background color rules based on certain conditions.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
