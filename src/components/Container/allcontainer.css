@@ -1,0 +1,21 @@
+.Container {
+  position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+    flex-wrap: wrap;
+  }
+
+  .card-light {
+    position: relative;
+    background-color: #F0C808;
+    bottom: 38px;
+  }
+  
+  .card-dark {
+    background-color: #93B5C6;
+    color: black!important;
+    bottom: 38px;
+    position: relative;
+  }
+

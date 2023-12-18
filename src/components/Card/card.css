@@ -1,0 +1,51 @@
+.btn-primar{
+--bs-btn-bg: white!important;
+--bs-btn-border-color: white!important;
+--bs-btn-hover-border-color: white!important;
+--bs-btn-border-width: 0px!important;
+--bs-btn-hover-bg: white!important;
+}
+
+p{
+    max-height: 100px; 
+    overflow: hidden; 
+    text-overflow: ellipsis;
+    color: black!important;
+}
+
+picture{
+    width: 230px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    max-width: 200px;
+    height: 250px!important;
+    object-fit: contain;
+    display: flex;
+    flex-direction: column;
+}
+
+.card1 {
+    width: 60px;
+    background-color: white;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-title{
+    height: 30px; 
+    overflow: hidden; 
+    text-overflow: ellipsis;
+    color: black!important;
+}
+
+.card-text{
+    height: 60px; 
+    overflow: hidden; 
+    text-overflow: ellipsis;
+    color: black!important;
+}

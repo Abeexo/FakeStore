@@ -1,0 +1,31 @@
+
+
+.drop-light{
+    background-color: #F0C808;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 100%!important;
+}
+
+.drop-dark{
+    background-color: #93B5C6;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 100%!important;
+}
+
+.container3{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    max-width: 10%!important;
+    bottom: 38px;
+    left: 200px;
+
+}

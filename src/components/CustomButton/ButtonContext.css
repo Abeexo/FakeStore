@@ -1,0 +1,25 @@
+.button-light {
+    position: relative;
+    border-radius: 50%!important; /* rende il pulsante rotondo */
+    background-image: url("../../img/luce2.png")!important; /* inserisce un'immagine all'interno del pulsante */
+    background-size: cover; /* adatta l'immagine alla dimensione del pulsante */
+    width: 50px; /* larghezza del pulsante */
+    height: 50px; /* altezza del pulsante */
+    border: none; /* rimuove il bordo del pulsante */
+    cursor: pointer; /* cambia il cursore al passaggio del mouse */
+    top: 12px;
+    left: 10px;
+  }
+
+  .button-dark {
+    position: relative;
+    border-radius: 50%!important; /* rende il pulsante rotondo */
+    background-image: url("../../img/luce1.png")!important; /* inserisce un'immagine all'interno del pulsante */
+    background-size: cover; /* adatta l'immagine alla dimensione del pulsante */
+    width: 50px; /* larghezza del pulsante */
+    height: 50px; /* altezza del pulsante */
+    border: none; /* rimuove il bordo del pulsante */
+    cursor: pointer; /* cambia il cursore al passaggio del mouse */
+    top: 12px;
+    left: 10px;
+  }

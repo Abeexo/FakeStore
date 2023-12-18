@@ -1,0 +1,21 @@
+
+img{
+    max-width: 100%!important;
+    height: 800px!important;
+}
+
+h3{
+    font-family: "Playfair Display", serif;
+    font-size: 48px!important;
+}
+
+.par{
+    font-family: "Playfair Display", serif; /* font elegante e sofisticato */
+    color: aliceblue!important;
+    font-size: 20px!important;
+}
+
+.carousel{
+    max-width: auto!important;
+    height: auto!important;
+}
